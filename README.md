@@ -2,4 +2,7 @@
 
 具体文档参考documents里面的文档。
 
-![image](http://gitlab.avatarworks.com/Lin5547/projectNormal/blob/master/pictures/dir.png)
+<p align='center'>
+<img src='pictures/dir.png' title='dir example' style='max-width:600px'></img>
+</p>
+
