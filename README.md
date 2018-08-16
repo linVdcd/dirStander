@@ -10,7 +10,9 @@ python makeDir.py --root /path/to/disk_root
 
 --root:硬盘挂载的目录
 
-在该项目中makDirTest里面的目录结构就是一个例子。
+假设在170上，硬盘挂载的目录是/home/research/data,那么运行命令为：
+
+python makeDir.py --root /home/research/data
 ```
 
 
